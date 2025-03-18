@@ -19,4 +19,6 @@ public class Locators {
     public static final String Agree_Input="agree";
     public static final String Register_Success_Message="Congratulations! Your new account has been successfully created!";
     public static final String Login_Error_Message="Warning: No match for E-Mail Address and/or Password.";
+    public static final String Register_Error_Message="Warning: E-Mail Address is already registered!";
+    public static final String Register_Password_Error_Message="Password confirmation does not match password!";
 }

@@ -9,11 +9,19 @@ import org.testng.annotations.Test;
 public class Registration extends BaseTest{
 
     /**
-     * Register user with all valid data
+     * Validate error message when user enter already registered email id
+     * @author shchak
      */
     @Test
-    public void test_register() {
-        TestUtils.Register("test","test","test@gmail.com","8055899488","Test@123","Test@123");
-        TestUtils.verifyText(Locators.Register_Success_Message);
+    public void testErrorMessageForAlreadyRegisteredEmail() {
+        TestUtils.Register("shubham","chakole","shubhamchakole22@gmail.com","8055899488","Shubham@123","Shubham@123");
+        TestUtils.verifyText(Locators.Register_Error_Message);
     }
+
+    @Test
+    public void testErrorMessageForDifferentPassword() {
+        TestUtils.Register("shubham","chakole","shubhamchakole@gmail.com","8055899488","Shubham@123","Shubham");
+        TestUtils.verifyText(Locators.Register_Password_Error_Message);
+    }
+
 }

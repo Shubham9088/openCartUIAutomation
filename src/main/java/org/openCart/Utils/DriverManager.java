@@ -8,31 +8,44 @@ import org.openqa.selenium.safari.SafariDriver;
 
 public class DriverManager {
 
-    private static WebDriver driver;
+    private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
-    public static void init(){
-        if(ConfigReader.getProperty("browser")==null){
+    public static void init() {
+        if (ConfigReader.getProperty("browser") == null) {
             throw new RuntimeException("Browser name not provided in configuration.properties file");
         }
-        String browser = ConfigReader.getProperty("browser");
-        browser= browser.toLowerCase();
-        switch (browser){
+
+        String browser = ConfigReader.getProperty("browser").toLowerCase();
+        WebDriver webDriver;
+
+        switch (browser) {
             case "chrome":
-                driver= new ChromeDriver();
+                webDriver = new ChromeDriver();
                 break;
             case "edge":
-                driver=new EdgeDriver();
+                webDriver = new EdgeDriver();
                 break;
             case "safari":
-                driver=new SafariDriver();
+                webDriver = new SafariDriver();
                 break;
             case "firefox":
-                driver=new FirefoxDriver();
+                webDriver = new FirefoxDriver();
                 break;
+            default:
+                throw new IllegalArgumentException("Unsupported browser: " + browser);
         }
+
+        driver.set(webDriver);  // Assign WebDriver instance to ThreadLocal
     }
 
-    public static WebDriver getDriver(){
-        return driver;
+    public static WebDriver getDriver() {
+        return driver.get();
+    }
+
+    public static void quitDriver() {
+        if (getDriver() != null) {
+            getDriver().quit();
+            driver.remove();
+        }
     }
 }

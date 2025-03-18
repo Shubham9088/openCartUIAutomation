@@ -4,6 +4,7 @@ import org.apache.logging.log4j.Logger;
 import org.openCart.Locator.LocatorUtils;
 import org.openCart.Locator.Locators;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -18,7 +19,6 @@ import java.time.Duration;
 public class TestUtils {
 
     private static Logger utilslLogger=LogManager.getLogger(TestUtils.class);
-    private static JavascriptExecutor js;
 
     //Explicit wait
     public static WebDriverWait waitForElement(){
@@ -26,10 +26,7 @@ public class TestUtils {
     }
 
     public static JavascriptExecutor getJSExecutor(){
-        if(js==null){
-            WebDriver driver=DriverManager.getDriver();
-            js=(JavascriptExecutor)driver;
-        }
+        JavascriptExecutor js=(JavascriptExecutor) DriverManager.getDriver();
         return js;
     }
 
@@ -161,8 +158,13 @@ public class TestUtils {
      * @param text
      */
     public static void verifyText(String text){
-        waitForElement().until(ExpectedConditions.textToBePresentInElementLocated(LocatorUtils.getLocatorByText(text),text));
-        WebElement Text=DriverManager.getDriver().findElement(LocatorUtils.getLocatorByText(text));
-        Assert.assertTrue(Text.isDisplayed());
+        try{
+            boolean isTextPresent=waitForElement().until(ExpectedConditions.textToBePresentInElementLocated(LocatorUtils.getLocatorByText(text),text));
+            Assert.assertTrue(isTextPresent);
+            utilslLogger.info("Text "+text+" is found");
+        } catch (TimeoutException e) {
+            utilslLogger.error("Text " +text+ "is not found"+"\nError" + e.getMessage());
+            Assert.fail();
+        }
     }
 }

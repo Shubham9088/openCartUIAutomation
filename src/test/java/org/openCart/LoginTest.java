@@ -1,7 +1,6 @@
 package org.openCart;
 import org.openCart.Utils.TestUtils;
 import org.openCart.Utils.openCartTestListeners;
-import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 

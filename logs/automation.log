@@ -717,3 +717,1054 @@
 2025-03-18 16:39:19 [main] INFO  org.openCart.Utils.TestUtils - Button Login clicked
 2025-03-18 16:39:19 [main] INFO  org.openCart.Utils.TestUtils - Login button clicked
 2025-03-18 16:39:21 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 18:05:38 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:38 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:38 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+2025-03-18 18:05:38 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+2025-03-18 18:05:38 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:05:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:05:40 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 18:06:05 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Login button clicked
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Login page launched
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Text demo1@gmail.com entered
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Username demo1@gmail.com entered
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Button Login clicked
+2025-03-18 18:06:06 [main] INFO  org.openCart.Utils.TestUtils - Login button clicked
+2025-03-18 18:06:38 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 18:06:38 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 18:06:41 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:22 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:22 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-18 18:07:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-03-18 18:07:24 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 18:07:31 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 18:07:31 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 18:07:31 [main] INFO  org.openCart.Utils.TestUtils - Login button clicked
+2025-03-18 18:07:31 [main] INFO  org.openCart.Utils.TestUtils - Login page launched
+2025-03-18 18:07:31 [main] INFO  org.openCart.Utils.TestUtils - Text demo1@gmail.com entered
+2025-03-18 18:07:31 [main] INFO  org.openCart.Utils.TestUtils - Username demo1@gmail.com entered
+2025-03-18 18:07:32 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 18:07:32 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 18:07:32 [main] INFO  org.openCart.Utils.TestUtils - Button Login clicked
+2025-03-18 18:07:32 [main] INFO  org.openCart.Utils.TestUtils - Login button clicked
+2025-03-18 18:07:34 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 18:07:34 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 18:07:39 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Login button clicked
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Login page launched
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Text demo1@gmail.com entered
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Username demo1@gmail.com entered
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Text  entered
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Password  entered
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Button Login clicked
+2025-03-18 18:07:40 [main] INFO  org.openCart.Utils.TestUtils - Login button clicked
+2025-03-18 18:07:42 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 18:07:42 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 20:24:08 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 20:24:18 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 20:24:18 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 20:24:19 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 20:24:20 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:24:20 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 20:24:20 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:24:21 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 20:24:21 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 20:24:21 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:24:22 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 20:24:49 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 20:24:58 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 20:24:59 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 20:25:00 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:25:00 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 20:25:00 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 20:25:00 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 20:25:01 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:25:02 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 20:25:03 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 20:25:03 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:25:34 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 20:36:15 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 20:36:19 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 20:36:19 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 20:36:20 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:36:21 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 20:36:22 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 20:36:22 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:36:52 [main] ERROR org.openCart.Utils.TestUtils - Text shubham chakoleis not found
+ErrorExpected condition failed: waiting for text ('shubham chakole') to be present in element found by By.xpath: //*[contains(text(),'shubham chakole')] (tried for 30 second(s) with 500 milliseconds interval)
+2025-03-18 20:36:53 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 20:39:48 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 20:39:53 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 20:39:54 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 20:39:55 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 20:39:55 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 20:39:55 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:39:55 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 20:39:55 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:39:56 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 20:39:56 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 20:39:56 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:40:27 [main] ERROR org.openCart.Utils.TestUtils - Text shubham chakoleis not found
+ErrorExpected condition failed: waiting for text ('shubham chakole') to be present in element found by By.xpath: //*[contains(text(),'shubham chakole')] (tried for 30 second(s) with 500 milliseconds interval)
+2025-03-18 20:40:27 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 20:44:33 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 20:44:37 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 20:44:37 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 20:44:38 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 20:44:40 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 20:44:40 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 20:44:40 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 20:44:40 [main] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-03-18 20:44:40 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 21:48:42 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:48:50 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:48:51 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 21:48:52 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 21:48:53 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 21:48:54 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 21:48:54 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 21:48:54 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 21:48:55 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 21:48:55 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 21:49:43 [main] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:49:47 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:49:48 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:49:48 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 21:49:48 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 21:49:49 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 21:49:50 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 21:49:51 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 21:49:51 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 21:49:51 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 21:49:51 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 21:52:47 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:52:47 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:52:52 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:52:53 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:52:53 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:52:53 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:53:14 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 21:53:14 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 21:53:51 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:53:51 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:53:56 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:53:56 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:53:56 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:53:56 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:54:27 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 21:56:06 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:56:06 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 21:56:09 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:56:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 21:56:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 21:56:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 21:56:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 21:56:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 21:56:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 21:56:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 21:56:14 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:03:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 22:03:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 22:03:26 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:03:28 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:03:28 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:03:28 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:03:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:04:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 22:04:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 22:04:35 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:04:36 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:04:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:04:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:05:08 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:23:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Stating setUp method
+2025-03-18 22:27:18 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:27:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:27:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:27:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:27:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:27:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:27:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:27:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:27:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:27:24 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 22:27:24 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 22:27:24 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:27:24 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:27:24 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:27:24 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:27:24 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:27:25 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 22:27:26 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:27:26 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:27:26 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-03-18 22:27:26 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:27:26 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:27:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:27:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:27:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] ERROR org.openCart.Utils.TestUtils - Error in click agree agree
+ErrorSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.491CF381EBBF4EF2ED46D248B7F01401.d.9DE9C80F5056C993341B1355896CE9AC.e.67}], script=arguments[0].scrollIntoView(true);}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58759}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58759/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 22:27:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:28:04 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:28:04 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:28:09 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:28:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:28:11 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:28:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:28:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] ERROR org.openCart.Utils.TestUtils - Error in click agree agree
+Errorno such element: element not found
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3815782ebba34741574d2e098b80b5a4, executeScript {script=arguments[0].scrollIntoView(true);, args=[{element-6066-11e4-a52e-4f735466cecf=f.482564383C6C6FA2AA9A9939CC376146.d.B9A8646089124BF0F65F817F5F593522.e.69}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58871}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58871/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3815782ebba34741574d2e098b80b5a4
+2025-03-18 22:28:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 22:28:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:28:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:28:13 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:28:43 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] ERROR org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered!is not found
+ErrorExpected condition failed: waiting for text ('Warning: E-Mail Address is already registered!') to be present in element found by By.xpath: //*[contains(text(),'Warning: E-Mail Address is already registered!')] (tried for 30 second(s) with 500 milliseconds interval)
+2025-03-18 22:28:44 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:29:15 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:29:19 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:29:20 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:29:20 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:29:20 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:29:20 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:29:20 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:29:20 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:29:20 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:29:21 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 22:29:21 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 22:29:21 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:29:21 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:29:21 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:29:21 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:29:21 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:29:22 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 22:29:23 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:29:23 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:29:23 [main] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-03-18 22:29:23 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:29:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:29:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:29:35 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:29:35 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:29:36 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 22:29:37 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:29:38 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] ERROR org.openCart.Utils.TestUtils - Error in click agree agree
+Errorno such element: element not found
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [419cb17ac8acdb4c3e302c4ac4b5491a, executeScript {script=arguments[0].scrollIntoView(true);, args=[{element-6066-11e4-a52e-4f735466cecf=f.C9009CD3986B07ED64D2C4F452B96EBF.d.8E5201DBCBE1DC94B5F1753F48C481DC.e.67}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59024}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59024/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 419cb17ac8acdb4c3e302c4ac4b5491a
+2025-03-18 22:29:39 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:29:39 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:29:39 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 22:29:40 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:29:40 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:29:40 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 22:29:40 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:30:09 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] ERROR org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered!is not found
+ErrorExpected condition failed: waiting for text ('Warning: E-Mail Address is already registered!') to be present in element found by By.xpath: //*[contains(text(),'Warning: E-Mail Address is already registered!')] (tried for 30 second(s) with 500 milliseconds interval)
+2025-03-18 22:30:09 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:31:27 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:31:32 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:31:33 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:31:33 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:31:33 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:31:33 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:31:33 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:31:34 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:31:35 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 22:31:36 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:31:36 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:31:36 [main] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-03-18 22:31:36 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:31:36 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:31:40 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:31:40 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:31:40 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:31:40 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:31:41 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 22:31:41 [main] ERROR org.openCart.Utils.TestUtils - Error in click agree agree
+ErrorSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.D36287427453D9D70B59CE24FC798855.d.3D7226FF8D1E334343CF1A11255B9978.e.68}], script=arguments[0].scrollIntoView(true);}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59181}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59181/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-03-18 22:31:42 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:31:42 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:31:42 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 22:31:42 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:31:53 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:31:53 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-18 22:31:57 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:31:58 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:31:58 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:31:58 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:31:58 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:31:58 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:31:58 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:31:58 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-18 22:31:59 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] ERROR org.openCart.Utils.TestUtils - Error in click agree agree
+Errorno such element: element not found
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7ba9cf36dea880a02ed22d5ec7faa402, executeScript {script=arguments[0].scrollIntoView(true);, args=[{element-6066-11e4-a52e-4f735466cecf=f.4AB11C16A00475B13336229126502300.d.7BFD9FA62AA96B6B622A0F52F3B0E4C3.e.66}]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59263}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59263/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ba9cf36dea880a02ed22d5ec7faa402
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:32:00 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:32:01 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-18 22:32:01 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-18 22:32:01 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-18 22:32:01 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-03-18 22:32:01 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-18 22:32:01 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
