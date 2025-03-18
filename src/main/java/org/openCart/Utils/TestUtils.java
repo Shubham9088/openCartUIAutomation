@@ -76,11 +76,11 @@ public class TestUtils {
         utilslLogger.info("Username "+username+" entered");
         enterTextInInputField(Locators.Login_Password_Placeholder,password);
         utilslLogger.info("Password "+password+" entered");
-        clickButton(Locators.Login_Button);
+        clickButton(Locators.Button_Type_Submit,Locators.Login_Button);
         utilslLogger.info("Login button clicked");
     }
 
-    public static void Register(String firstName,String lastName,String email,String password){
+    public static void Register(String firstName,String lastName,String email,String mobile,String password, String confirmPassword){
         launchRegistrationPage();
         utilslLogger.info("Registration page launched");
         enterTextInInputField(Locators.Register_FirstName_Placeholder,firstName);
@@ -89,8 +89,11 @@ public class TestUtils {
         utilslLogger.info("Last name "+lastName+" entered");
         enterTextInInputField(Locators.Register_Email_Placeholder,email);
         utilslLogger.info("Email "+email+" entered");
+        enterTextInInputField(Locators.Register_Telephone_Placeholder,mobile);
+        utilslLogger.info("Telephone" +mobile+" entered");
         enterTextInInputField(Locators.Register_Password_Placeholder,password);
         utilslLogger.info("Password "+password+" entered");
+        enterTextInInputField(Locators.Register_ConfirmPassword_Placeholder,confirmPassword);
         WebElement agreeBtn=waitForElement().until(ExpectedConditions.elementToBeClickable(LocatorUtils.getLocatorByName(Locators.Agree_Input)));
         try{
             getJSExecutor().executeScript("arguments[0].scrollIntoView(true);", agreeBtn);
@@ -100,17 +103,17 @@ public class TestUtils {
         }catch (Exception e){
             utilslLogger.error("Error in click agree " +Locators.Agree_Input+ "\nError" + e.getMessage());
         }
-        clickButton(Locators.Register_Button);
+        clickButton(Locators.Button_Type_Submit,Locators.Register_Button_Value);
         utilslLogger.info("Register button clicked");
     }
 
-    public static void clickButton(String buttonName){
-        WebElement button=waitForElement().until(ExpectedConditions.elementToBeClickable(LocatorUtils.getButtonLocator(buttonName)));
+    public static void clickButton(String type, String value){
+        WebElement button=waitForElement().until(ExpectedConditions.elementToBeClickable(LocatorUtils.getButtonLocator(type, value)));
         try{
             button.click();
-            utilslLogger.info("Button "+buttonName+" clicked");
+            utilslLogger.info("Button "+value+" clicked");
         }catch (Exception e){
-            utilslLogger.error("Error in click button " +buttonName+ "\nError" + e.getMessage());
+            utilslLogger.error("Error in click button " +value+ "\nError" + e.getMessage());
         }
     }
 
@@ -125,18 +128,13 @@ public class TestUtils {
         }
     }
 
-    public static boolean verifyLoginIsSucessfull(){
-        boolean isLoggedIn;
-        try{
+    public static void assertLoginStatus(boolean status){
+        if(status){
             WebElement editAccount=waitForElement().until(ExpectedConditions.elementToBeClickable(LocatorUtils.getLocatorByText(Locators.Edit_Account)));
-            isLoggedIn=editAccount.isDisplayed();
-            utilslLogger.info("Login is successfull");
-        }catch(Exception e){
-            isLoggedIn= false;
-            utilslLogger.info("Login is not successfull");
+            Assert.assertTrue(editAccount.isDisplayed());
+        }else {
+            verifyText(Locators.Login_Error_Message);
         }
-        System.out.println(isLoggedIn);
-        return isLoggedIn;
     }
 
     @DataProvider(name="loginData")

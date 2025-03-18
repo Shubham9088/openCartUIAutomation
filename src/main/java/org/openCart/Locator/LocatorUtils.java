@@ -24,8 +24,8 @@ public class LocatorUtils {
         return By.xpath("//*[@placeholder='"+placeholder+"']");
     }
 
-    public static By getButtonLocator(String buttonName) {
-        return By.xpath("//button[contains(text(),'"+buttonName+"')]");
+    public static By getButtonLocator(String type, String value) {
+        return By.xpath("//*[@type='"+type+"' and @value='"+value+"']");
     }
 
     public static By getLocatorByName(String name) {

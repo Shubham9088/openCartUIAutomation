@@ -11,6 +11,6 @@ public class LoginTest extends BaseTest{
     @Test(dataProvider = "loginData", dataProviderClass = TestUtils.class)
     public void test_login(String username, String password, Boolean expectedResult){
         TestUtils.Login(username,password);
-        Assert.assertEquals(TestUtils.verifyLoginIsSucessfull(),expectedResult);
+        TestUtils.assertLoginStatus(expectedResult);
     }
 }

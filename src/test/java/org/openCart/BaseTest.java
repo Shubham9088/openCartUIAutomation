@@ -20,6 +20,7 @@ public class BaseTest {
         //launch the url
         DriverManager.getDriver().get(ConfigReader.getProperty("URL"));
         logger.info("setUp method completed -- browser opened");
+        DriverManager.getDriver().manage().window().maximize();
     }
 
     @AfterMethod

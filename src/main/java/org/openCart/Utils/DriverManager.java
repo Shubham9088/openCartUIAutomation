@@ -30,7 +30,6 @@ public class DriverManager {
                 driver=new FirefoxDriver();
                 break;
         }
-        driver.manage().window().fullscreen();
     }
 
     public static WebDriver getDriver(){
