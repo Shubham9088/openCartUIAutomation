@@ -12,15 +12,15 @@ public class openCartTestListeners implements ITestListener, IRetryAnalyzer {
 
 
     private final int maxRetryCount = 2;
-    private int retry = 0;
+    private static ThreadLocal<Integer> retryCount = ThreadLocal.withInitial(() -> 0);
 
     /**
      * Test case will be retried 2 times if it gets failed
      */
     @Override
     public boolean retry(ITestResult result) {
-        if (result.getStatus() == ITestResult.FAILURE && retry < maxRetryCount) {
-            retry++;
+        if (retryCount.get() < maxRetryCount) {
+            retryCount.set(retryCount.get() + 1);
             return true;
         }
         return false;
