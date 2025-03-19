@@ -11,7 +11,7 @@ public class BaseTest {
 
     public static final Logger logger = LogManager.getLogger(BaseTest.class);
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setUp(){
         logger.info("Starting setUp method");
         DriverManager.init();
@@ -20,7 +20,7 @@ public class BaseTest {
         logger.info("setUp method completed -- browser opened");
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void tearDown() {
         DriverManager.quitDriver();
         logger.info("Browser closed");

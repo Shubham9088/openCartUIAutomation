@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 @Listeners(openCartTestListeners.class)
 public class LoginTest extends BaseTest{
 
-    @Test(dataProvider = "loginData", dataProviderClass = TestUtils.class,retryAnalyzer = openCartTestListeners.class)
+    @Test(dataProvider = "loginData", dataProviderClass = TestUtils.class,retryAnalyzer = openCartTestListeners.class,groups = "smoke")
     public void test_login(String username, String password, Boolean expectedResult){
         TestUtils.Login(username,password);
         TestUtils.assertLoginStatus(expectedResult);
