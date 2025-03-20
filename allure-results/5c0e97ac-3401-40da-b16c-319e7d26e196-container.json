@@ -1,0 +1,1 @@
+{"uuid":"5c0e97ac-3401-40da-b16c-319e7d26e196","name":"org.openCart.BaseTest.setUp","children":["50ed720c-df15-4a9b-9be7-cf7ceff61dc8"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742468990398,"stop":1742468992564}],"afters":[],"start":1742468990398,"stop":1742468992564}
