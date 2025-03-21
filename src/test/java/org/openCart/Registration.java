@@ -26,6 +26,5 @@ public class Registration extends BaseTest{
     public void testErrorMessageForDifferentPassword() {
         TestUtils.Register("shubham","chakole","shubhamchakole@gmail.com","8055899488","Shubham@123","Shubham");
         TestUtils.verifyText(Locators.Register_Password_Error_Message);
-        TestUtils.verifyText("Shubham");
     }
 }

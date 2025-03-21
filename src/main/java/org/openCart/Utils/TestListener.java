@@ -5,6 +5,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
@@ -13,9 +14,12 @@ import org.testng.IRetryAnalyzer;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import org.apache.commons.io.FileUtils;
 
+
+import java.awt.*;
 import java.io.File;
+import java.io.IOException;
+import java.net.URL;
 
 public class TestListener implements ITestListener, IRetryAnalyzer {
 
@@ -67,6 +71,17 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
         test.set(extent.createTest(result.getMethod().getMethodName()));
         test.get().assignCategory(result.getMethod().getGroups());
         test.get().log(Status.SKIP, "Test skipped");
+    }
+
+    @Override
+    public void onFinish(ITestContext content) {
+        extent.flush();
+        File extentReport = new File(System.getProperty("user.dir") + "/ExtentReport/ExtentReport.html");
+        try {
+            Desktop.getDesktop().browse(extentReport.toURI());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
