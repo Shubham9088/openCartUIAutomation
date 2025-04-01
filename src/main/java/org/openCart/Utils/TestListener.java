@@ -76,6 +76,7 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
     @Override
     public void onFinish(ITestContext content) {
         extent.flush();
+        //Opening extent report
         File extentReport = new File(System.getProperty("user.dir") + "/ExtentReport/ExtentReport.html");
         try {
             Desktop.getDesktop().browse(extentReport.toURI());

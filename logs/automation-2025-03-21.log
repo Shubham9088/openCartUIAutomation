@@ -1,0 +1,280 @@
+2025-03-21 11:08:00 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 11:08:59 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 11:08:59 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 11:09:00 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 11:09:02 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 11:09:02 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 11:09:02 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:09:02 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 11:09:02 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 11:09:03 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 11:10:44 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 11:11:01 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 11:11:01 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 11:11:03 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:11:03 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 11:11:04 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 11:11:05 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 11:11:06 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 11:11:06 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:11:06 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 11:11:06 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 11:11:07 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 11:40:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 11:40:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 11:40:29 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 11:40:29 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 11:40:29 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 11:40:29 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 11:40:30 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 11:40:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 11:40:31 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 11:40:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 11:40:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 11:40:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 11:40:32 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 11:40:33 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 12:18:25 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 12:18:32 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 12:18:33 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 12:18:33 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 12:18:33 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 12:18:33 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 12:18:33 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 12:18:33 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 12:18:33 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 12:18:34 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 12:18:34 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 12:18:34 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 12:18:34 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 12:18:34 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 12:18:34 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 12:18:34 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 12:18:35 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 12:18:36 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 12:18:36 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 12:18:36 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 12:18:36 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 12:18:36 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 14:01:31 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:01:38 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:01:38 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:01:39 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:01:40 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 14:01:41 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 14:01:41 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:01:41 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 14:01:41 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 14:01:41 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 14:02:31 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:02:35 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:02:35 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:02:36 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:02:37 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 14:02:38 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 14:02:38 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:02:38 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 14:02:38 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 14:02:38 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 14:05:51 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:05:54 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:05:54 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:05:55 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:05:55 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:05:55 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:05:55 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:05:55 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:05:55 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:05:56 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:05:56 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:05:56 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:05:56 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:05:56 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:05:56 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:05:56 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:06:16 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:06:19 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:06:19 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:06:19 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:06:19 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:06:19 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:06:19 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:06:19 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:06:19 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:06:20 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:06:20 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:06:20 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:06:20 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:06:20 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:06:20 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:06:20 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:06:21 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 14:06:21 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 14:06:21 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:06:21 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 14:06:21 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 14:06:22 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 14:07:49 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:07:52 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:07:52 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:07:52 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:07:52 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:07:53 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:07:54 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 14:07:54 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 14:07:54 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:07:55 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 14:07:55 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 14:07:55 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 14:09:59 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:10:03 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:10:03 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:10:03 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:10:03 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:10:03 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:10:03 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:10:04 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:10:05 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 14:10:05 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 14:10:05 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:10:05 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 14:10:05 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 14:10:06 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 14:10:51 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:10:54 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:10:54 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:10:55 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:10:56 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 14:10:56 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 14:10:56 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:10:57 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 14:10:57 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 14:10:57 [main] INFO  org.openCart.BaseTest - Browser closed
+2025-03-21 14:12:44 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-03-21 14:12:47 [main] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-03-21 14:12:47 [main] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-03-21 14:12:48 [main] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-03-21 14:12:49 [main] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-03-21 14:12:50 [main] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-03-21 14:12:50 [main] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-03-21 14:12:50 [main] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-03-21 14:12:50 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-03-21 14:12:50 [main] INFO  org.openCart.BaseTest - Browser closed
