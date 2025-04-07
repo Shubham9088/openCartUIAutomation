@@ -1,5 +1,4 @@
 package org.openCart.Utils;
-
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
@@ -14,15 +13,11 @@ import org.testng.IRetryAnalyzer;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-
-
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
-import java.net.URL;
 
 public class TestListener implements ITestListener, IRetryAnalyzer {
-
 
     private final int maxRetryCount = 1;
     private static ThreadLocal<Integer> retryCount = ThreadLocal.withInitial(() -> 0);
@@ -53,6 +48,7 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
         test.set(extent.createTest(result.getMethod().getMethodName()));
         test.get().assignCategory(result.getMethod().getGroups());
         test.get().log(Status.FAIL, result.getThrowable().getMessage());
+        //capturing screenshot for failed tests
         try {
             if (DriverManager.getDriver() != null) {
                 TakesScreenshot ts = (TakesScreenshot) DriverManager.getDriver();

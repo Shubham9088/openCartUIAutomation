@@ -3,17 +3,15 @@ import org.openqa.selenium.Platform;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.remote.Browser;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
-
 import java.net.MalformedURLException;
 import java.net.URL;
 
 public class DriverManager {
 
-    private static ThreadLocal<RemoteWebDriver> driver = new ThreadLocal<>();
+    private static final ThreadLocal<RemoteWebDriver> driver = new ThreadLocal<>();
 
     public static void init(){
         if(ConfigReader.getProperty("execution_mode").equalsIgnoreCase("remote")){
