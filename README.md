@@ -48,10 +48,10 @@ Steps to set the environment variables:
 
 **Standalone Setup (single machine) hub and node are on same machine**
 Steps to run:
-1. Go to selenium website and download selenium grid and place it somewhere in your system.
-2. Go to selenium grid location and open cmd.
+1. Download Selenium Grid standalone JAR from the official Selenium website.
+2. Open a terminal in the Selenium Grid directory.
 3. Run command to start selenium grid **java -jar selenium-server-4.29.0.jar standalone**.
-4. URL to see session status **http://localhost:4444**.
+4. Visit http://localhost:4444 to monitor sessions.
 5. Set environment variable **execution_mode=remote**.
 6. Run command **mvn test** all test will get executed in parallel using selenium grid.
 
