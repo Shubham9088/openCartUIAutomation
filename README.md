@@ -1,4 +1,4 @@
-**OpenCart UI Automation**
+# **OpenCart UI Automation**
 
 This project automates the UI testing of the OpenCart e-commerce platform using Selenium WebDriver with Java. It leverages TestNG for test execution, integrates reporting tools like Allure and ExtentReports, and supports parallel test execution using Selenium Grid.
 
