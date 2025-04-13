@@ -7,7 +7,7 @@ This project automates UI testing for the OpenCart e-commerce platform using Sel
 * Parallel test execution using Selenium Grid.
 * Logging with Log4j, including saving logs to file.
 * TestNG Listeners for retrying failed tests and capturing screenshots on failures.
-* Integration with Allure and ExtentReports for detailed reporting.
+* Integration with ExtentReports for detailed reporting.
 
 ## **Tech Stack**
 
@@ -55,7 +55,7 @@ Steps to set the environment variables:
 
 **Standalone Setup (single machine) hub and node are on same machine**
 
-Steps to run:
+**Steps to run:**
 
 1. Download Selenium Grid standalone JAR from the official Selenium website.
 2. Open a terminal in the Selenium Grid directory.
@@ -65,7 +65,7 @@ Steps to run:
 6. Run command **mvn test** all test will get executed in parallel using selenium grid.
 
 ## **Distributed Setup (multiple machines) using Docker**
-Steps to run:
+**Steps to run:**
 1. Start docker.
 2. Run command **docker-compose up -d**
 3. Set environment variable **execution_mode=remote**
