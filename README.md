@@ -47,7 +47,9 @@ Steps to set the environment variables:
 ## **Parallel Execution with Selenium Grid**
 
 **Standalone Setup (single machine) hub and node are on same machine**
+
 Steps to run:
+
 1. Download Selenium Grid standalone JAR from the official Selenium website.
 2. Open a terminal in the Selenium Grid directory.
 3. Run command to start selenium grid **java -jar selenium-server-4.29.0.jar standalone**.
