@@ -1,0 +1,96 @@
+2025-04-08 16:48:04 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-08 16:48:04 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-08 16:48:05 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - TearDown method executing
+2025-04-08 16:48:05 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-04-08 16:48:05 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - TearDown method executing
+2025-04-08 16:48:05 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-04-08 16:50:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-08 16:50:10 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-08 16:50:19 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-04-08 16:50:19 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-04-08 16:50:19 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-04-08 16:50:19 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:50:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-04-08 16:50:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-04-08 16:50:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-04-08 16:50:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-04-08 16:50:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-04-08 16:50:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - TearDown method executing
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - TearDown method executing
+2025-04-08 16:50:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-04-08 16:53:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-08 16:53:12 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-08 16:53:19 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - setUp method completed -- browser opened
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Dropdown clicked
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Registration page launched
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-04-08 16:53:20 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubham entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - First name shubham entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text chakole entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Last name chakole entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole22@gmail.com entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole22@gmail.com entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text shubhamchakole@gmail.com entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Email shubhamchakole@gmail.com entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text 8055899488 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Telephone8055899488 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Password Shubham@123 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Shubham@123 entered
+2025-04-08 16:53:21 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Shubham entered
+2025-04-08 16:53:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-04-08 16:53:22 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Agree button clicked
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.Utils.TestUtils - Text Warning: E-Mail Address is already registered! is found
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - TearDown method executing
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Button Continue clicked
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Register button clicked
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.Utils.TestUtils - Text Password confirmation does not match password! is found
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - TearDown method executing
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Browser closed
+2025-04-08 16:53:23 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Browser closed
+2025-04-08 16:56:57 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-2] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-08 16:56:57 [TestNG-test-C:/Users/HP/IdeaProjects/openCart-1] INFO  org.openCart.BaseTest - Starting setUp method

@@ -13,6 +13,7 @@ public class DriverManager {
 
     private static final ThreadLocal<RemoteWebDriver> driver = new ThreadLocal<>();
 
+    //factory pattern
     public static void init(){
         if(ConfigReader.getProperty("execution_mode").equalsIgnoreCase("remote")){
             DesiredCapabilities capabilities=new DesiredCapabilities();
