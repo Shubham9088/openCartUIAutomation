@@ -4,10 +4,10 @@ This project automates UI testing for the OpenCart e-commerce platform using Sel
 
 **Key features include:**
 
-* Parallel test execution using Selenium Grid
-* Logging with Log4j, including saving logs to file
-* Custom TestNG Listeners for retrying failed tests and capturing screenshots on failures
-* Integration with Allure and ExtentReports for detailed reporting
+* Parallel test execution using Selenium Grid.
+* Logging with Log4j, including saving logs to file.
+* TestNG Listeners for retrying failed tests and capturing screenshots on failures.
+* Integration with Allure and ExtentReports for detailed reporting.
 
 ## **Tech Stack**
 
