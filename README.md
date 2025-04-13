@@ -4,33 +4,33 @@ This project automates the UI testing of the OpenCart e-commerce platform using 
 
 **Tech Stack**
 
-**Programming Language**: Java
+* **Programming Language**: Java
 
-**Automation Framework**: Selenium WebDriver
+* **Automation Framework**: Selenium WebDriver
 
-**Test Framework**: TestNG
+* **Test Framework**: TestNG
 
-**Build Tool**: Maven
+* **Build Tool**: Maven
 
-**Reporting Tools**: Allure Reports, ExtentReports
+* **Reporting Tools**: Allure Reports, ExtentReports
 
-**Logging**: Log4j
+* **Logging**: Log4j
 
-**Containerization & Grid**: Docker, Selenium Grid
+* **Containerization & Grid**: Docker, Selenium Grid
 
 **Prerequisites**
 
 Make sure the following are installed:
 
-Java JDK 11 or higher
+* Java JDK 11 or higher
 
-Maven
+* Maven
 
-Docker
+* Docker
 
-IntelliJ/Eclipse (IDE)
+* IntelliJ/Eclipse (IDE)
 
-Git
+* Git
 
 
 **Running Test Locally**
