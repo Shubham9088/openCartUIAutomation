@@ -2,7 +2,7 @@
 
 This project automates the UI testing of the OpenCart e-commerce platform using Selenium WebDriver with Java. It leverages TestNG for test execution, integrates reporting tools like Allure and ExtentReports, and supports parallel test execution using Selenium Grid.
 
-**Tech Stack**
+## **Tech Stack**
 
 * **Programming Language**: Java
 
@@ -18,7 +18,7 @@ This project automates the UI testing of the OpenCart e-commerce platform using 
 
 * **Containerization & Grid**: Docker, Selenium Grid
 
-**Prerequisites**
+## **Prerequisites**
 
 Make sure the following are installed:
 
@@ -33,7 +33,7 @@ Make sure the following are installed:
 * Git
 
 
-**Running Test Locally**
+## **Running Test Locally**
 
 By default test will execute on chrome browser on windows machine to change the browser and os set environment variable
 
@@ -44,7 +44,7 @@ Steps to set the environment variables:
 * Run all test  **mvn test**
 * Run a specific suite **mvn test -DsuiteXmlFile=testNGSmoke.xml**
 
-**Parallel Execution with Selenium Grid**
+## **Parallel Execution with Selenium Grid**
 
 **Standalone Setup (single machine) hub and node are on same machine**
 Steps to run:
@@ -55,7 +55,7 @@ Steps to run:
 5. Set environment variable **execution_mode=remote**.
 6. Run command **mvn test** all test will get executed in parallel using selenium grid.
 
-**Distributed Setup (multiple machines) using Docker**
+## **Distributed Setup (multiple machines) using Docker**
 Steps to run:
 1. Start docker.
 2. Run command **docker-compose up -d**
