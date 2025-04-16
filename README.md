@@ -69,7 +69,7 @@ Steps to set the environment variables:
 1. Start docker.
 2. Run command **docker-compose up -d**
 3. Set environment variable **execution_mode=remote**
-3. Open another terminal and run command **mvn test**
+4. Open another terminal and run command **mvn test**
 
 
 

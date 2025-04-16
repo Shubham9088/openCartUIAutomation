@@ -15,10 +15,10 @@ public class DriverManager {
 
     //factory pattern
     public static void init(){
-        if(ConfigReader.getProperty("execution_mode").equalsIgnoreCase("remote")){
+        if(ConfigReader.getTestDataProperty("execution_mode").equalsIgnoreCase("remote")){
             DesiredCapabilities capabilities=new DesiredCapabilities();
             //setting the os
-            switch (ConfigReader.getProperty("os").toLowerCase()) {
+            switch (ConfigReader.getTestDataProperty("os").toLowerCase()) {
                 case "windows":
                     capabilities.setPlatform(Platform.WIN11);
                     break;
@@ -30,7 +30,7 @@ public class DriverManager {
                     break;
             }
             //setting the browser
-            switch (ConfigReader.getProperty("browser").toLowerCase()) {
+            switch (ConfigReader.getTestDataProperty("browser").toLowerCase()) {
                 case "chrome":
                     capabilities.setBrowserName("chrome");
                     break;
@@ -42,13 +42,13 @@ public class DriverManager {
                     break;
             }
             try{
-                driver.set(new RemoteWebDriver(new URL(ConfigReader.getProperty("grid_url")), capabilities));
+                driver.set(new RemoteWebDriver(new URL(ConfigReader.getTestDataProperty("grid_url")), capabilities));
             }catch(MalformedURLException e){
                 e.printStackTrace();
             }
         //for local execution
         }else{
-            String browser = ConfigReader.getProperty("browser").toLowerCase();
+            String browser = ConfigReader.getTestDataProperty("browser").toLowerCase();
             RemoteWebDriver webDriver;
 
             switch (browser) {

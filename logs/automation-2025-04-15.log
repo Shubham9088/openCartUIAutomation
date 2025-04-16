@@ -1,0 +1,3 @@
+2025-04-15 15:27:36 [main] INFO  org.openCart.BaseTest - Starting setUp method
+2025-04-15 15:28:44 [main] INFO  org.openCart.BaseTest - TearDown method executing
+2025-04-15 15:28:47 [main] INFO  org.openCart.BaseTest - Browser closed

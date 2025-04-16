@@ -17,7 +17,7 @@ public class BaseTest {
         logger.info("Starting setUp method");
         DriverManager.init();
         DriverManager.getDriver().manage().window().maximize();
-        DriverManager.getDriver().get(ConfigReader.getProperty("URL"));
+        DriverManager.getDriver().get(ConfigReader.getTestDataProperty("URL"));
         logger.info("setUp method completed -- browser opened");
     }
 
