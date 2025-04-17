@@ -19,6 +19,14 @@ public class TestUtils {
 
     private static Logger utilslLogger = LogManager.getLogger(TestUtils.class);
 
+    /**
+     * Generates a dynamic XPath locator by replacing placeholders in the locator string with actual values.
+     * Placeholders in the locator string should be in the format {0}, {1}, etc.
+     * @param locatorName the XPath template string containing placeholders
+     * @param string the values to replace the placeholders with
+     * @return the generated XPath locator
+     * @author shchak
+     */
     public static By getElementXpath(String locatorName, String... string) {
         String locator=locatorName;
         for (int i = 0; i < string.length; i++) {
@@ -27,16 +35,29 @@ public class TestUtils {
         return By.xpath(locator);
     }
 
-    //Explicit wait
+    /**
+     * Returns a WebDriverWait object configured with a timeout of 30 seconds.
+     * @return WebDriverWait object
+     * @author shchak
+     */
     public static WebDriverWait waitForElement() {
         return new WebDriverWait(DriverManager.getDriver(), Duration.ofSeconds(30));
     }
 
+    /**
+     * Returns a JavascriptExecutor object.
+     * @return JavascriptExecutor object
+     * @author shchak
+     */
     public static JavascriptExecutor getJSExecutor() {
         JavascriptExecutor js = (JavascriptExecutor) DriverManager.getDriver();
         return js;
     }
 
+    /**
+     * Launches the login page by clicking on the "Account" dropdown and then clicking on the "Login" button.
+     * @author shchak
+     */
     public static void launchLoginPage() {
         WebElement dropdown = waitForElement().until(ExpectedConditions.elementToBeClickable(getElementXpath(ConfigReader.getLocatorProperty("objByClassAndText"),ConfigReader.getLocatorDataProperty("Account_Dropdown"))));
         try {
@@ -55,6 +76,10 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Launching the registration page by clicking on the "Account" dropdown and then clicking on the "Register" button.
+     * @author shchak
+     */
     public static void launchRegistrationPage() {
         WebElement dropdown = waitForElement().until(ExpectedConditions.elementToBeClickable(getElementXpath(ConfigReader.getLocatorProperty("objByClassAndText"),ConfigReader.getLocatorDataProperty("Account_Dropdown"))));
         try {
@@ -73,6 +98,12 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Logs in with the provided username and password.
+     * @param username the username to log in with
+     * @param password the password to log in with
+     * @author shchak
+     */
     public static void Login(String username, String password) {
         launchLoginPage();
         utilslLogger.info("Login page launched");
@@ -84,6 +115,16 @@ public class TestUtils {
         utilslLogger.info("Login button clicked");
     }
 
+    /**
+     * Registers a new user with the provided details.
+     * @param firstName the first name of the user
+     * @param lastName the last name of the user
+     * @param email the email address of the user
+     * @param mobile the mobile number of the user
+     * @param password the password for the user
+     * @param confirmPassword the confirmation password for the user
+     * @author shchak
+     */
     public static void Register(String firstName, String lastName, String email, String mobile, String password, String confirmPassword) {
         launchRegistrationPage();
         utilslLogger.info("Registration page launched");
@@ -111,6 +152,11 @@ public class TestUtils {
         utilslLogger.info("Register button clicked");
     }
 
+    /**
+     * Click button by type and value
+     * @param type type attribute of button
+     * @param value value attribute of button
+     */
     public static void clickButton(String type, String value) {
         WebElement button = waitForElement().until(ExpectedConditions.elementToBeClickable(getElementXpath(ConfigReader.getLocatorProperty("objByTypeAndValue"), type, value)));
         try {
@@ -122,6 +168,12 @@ public class TestUtils {
     }
 
 
+    /**
+     * Enter text in the input field
+     * @param placeholder placeholder attribute of input field
+     * @param text text to enter in input field
+     * @author shchak
+     */
     public static void enterTextInInputField(String placeholder, String text) {
         WebElement inputBox = waitForElement().until(ExpectedConditions.elementToBeClickable(getElementXpath(ConfigReader.getLocatorProperty("objByPlaceholder"), placeholder)));
         try {
@@ -132,6 +184,11 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Assert login status
+     * @param status status of login true or false
+     * @author shchak
+     */
     public static void assertLoginStatus(boolean status) {
         if (status) {
             WebElement editAccount = waitForElement().until(ExpectedConditions.elementToBeClickable(getElementXpath(ConfigReader.getLocatorProperty("objByText"),ConfigReader.getLocatorDataProperty("EditAccount"))));
@@ -141,6 +198,13 @@ public class TestUtils {
         }
     }
 
+    /**
+     * Login data provider
+     * Reads data from excel file and return data in 2D object array
+     * @return 2D object array
+     * @throws IOException throws IOException if xlsx file is not found.
+     * @author shchak
+     */
     @DataProvider(name = "loginData")
     public Object[][] loginData() throws IOException {
         ExcelUtils excel = new ExcelUtils(System.getProperty("user.dir") + "/src/main/java/org/openCart/TestData/LoginTestData.xlsx");
@@ -162,8 +226,8 @@ public class TestUtils {
 
     /**
      * Verify test message is displayed in the UI
-     *
-     * @param text
+     * @param text text to verify in UI
+     * @author shchak
      */
     public static void verifyText(String text) {
         System.out.println(text);

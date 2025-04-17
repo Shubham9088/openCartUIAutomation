@@ -25,6 +25,14 @@ public class ExcelUtils {
     public ExcelUtils(String filePath){
         this.path=filePath;
     }
+
+    /**
+     * Returns the number of rows in the sheet
+     * @param sheetName sheet name of the excel file
+     * @return row count
+     * @throws IOException throws IOException if file is not found
+     * @author shchak
+     */
     public int getRowCount(String sheetName) throws  IOException{
         fs = new FileInputStream(path);
         wb = new XSSFWorkbook(fs);
@@ -33,6 +41,14 @@ public class ExcelUtils {
         return sheet.getLastRowNum() - sheet.getFirstRowNum();
     }
 
+    /**
+     * Returns the number of cells in a row
+     * @param sheetName sheet name of excel file
+     * @param rowNum row number
+     * @return cell count
+     * @throws IOException throws IOException if file is not found
+     * @author shchak
+     */
     public int getCellCount(String sheetName, int rowNum) throws IOException{
         fs = new FileInputStream(path);
         wb = new XSSFWorkbook(fs);
@@ -42,6 +58,14 @@ public class ExcelUtils {
         return row.getLastCellNum();
     }
 
+    /**
+     * Returns the cell data
+     * @param sheetName sheet name of excel file
+     * @param rowNum row number
+     * @param colNum column number
+     * @return cell data in string format
+     * @throws IOException throws IOException if cell value is empty
+     */
     public String getCellData(String sheetName, int rowNum, int colNum) throws IOException{
         fs = new FileInputStream(path);
         wb = new XSSFWorkbook(fs);

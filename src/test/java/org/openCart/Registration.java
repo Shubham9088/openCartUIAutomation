@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 public class Registration extends BaseTest{
 
     /**
-     * Validate error message when user enter already registered email id
+     * Validate error message when user enter already registered email id.
      * @author shchak
      */
     @Test(retryAnalyzer = TestListener.class,groups = "smoke")
@@ -19,7 +19,7 @@ public class Registration extends BaseTest{
     }
 
     /**
-     * Validate error message when user enter different password
+     * Validate error message when user enter different password.
      * @author shchak
      */
     @Test(retryAnalyzer = TestListener.class,groups="regression")

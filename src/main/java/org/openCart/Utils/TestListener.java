@@ -26,7 +26,11 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
     private static ExtentSparkReporter spark;
     private static ThreadLocal<ExtentTest> test = new ThreadLocal<>();
 
-
+    /**
+     * Initializes the ExtentReports and configures the ExtentSparkReporter
+     * @param content the ITestContext provided by TestNG at the start of the test suite
+     * @author shchak
+     */
     public void onStart(ITestContext content) {
         spark = new ExtentSparkReporter(System.getProperty("user.dir") + "/ExtentReport/ExtentReport.html");
         spark.config().setTheme(Theme.DARK);
@@ -35,6 +39,12 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
         extent.attachReporter(spark);
     }
 
+    /**
+     * Logs the successful execution of a test case in the Extent Report.
+     * Creates a test entry with the test method name and assigns any associated groups.
+     * @param result the ITestResult object containing information about the executed test method.
+     * @author shchak
+     */
     public void onTestSuccess(ITestResult result) {
         test.set(extent.createTest(result.getMethod().getMethodName()));
         test.get().assignCategory(result.getMethod().getGroups());
@@ -42,7 +52,13 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
     }
 
 
-    @Override
+    /**
+     * Logs the failed execution of a test case in the Extent Report.
+     * Creates a test entry with the test method name and assigns any associated groups.
+     * Attach a screenshot to the extent report.
+     * @param result the ITestResult object containing information about the executed test method.
+     * @author shchak
+     */
     public void onTestFailure(ITestResult result) {
         logger.info("onTestFailure method executing");
         test.set(extent.createTest(result.getMethod().getMethodName()));
@@ -63,13 +79,25 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
         }
     }
 
+
+    /**
+     * Logs the skipped execution of a test case in the Extent Report.
+     * Creates a test entry with the test method name and assigns any associated groups.
+     * @param result the ITestResult object containing information about the executed test method.
+     * @author shchak
+     */
     public void onTestSkipped(ITestResult result) {
         test.set(extent.createTest(result.getMethod().getMethodName()));
         test.get().assignCategory(result.getMethod().getGroups());
         test.get().log(Status.SKIP, "Test skipped");
     }
 
-    @Override
+    /**
+     * Finalizes the Extent Report after all tests have been executed.
+     * Flushes the report data and opens the generated HTML report in the default browser.
+     * @param content the ITestContext provided by TestNG at the end of the test suite
+     * @author shchak
+     */
     public void onFinish(ITestContext content) {
         extent.flush();
         //Opening extent report
@@ -83,6 +111,7 @@ public class TestListener implements ITestListener, IRetryAnalyzer {
 
     /**
      * Test case will be retried 1 times if it gets failed
+     * @author shchak
      */
     @Override
     public boolean retry(ITestResult result) {

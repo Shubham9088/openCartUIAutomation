@@ -12,6 +12,12 @@ public class BaseTest {
 
     public static final Logger logger = LogManager.getLogger(BaseTest.class);
 
+    /**
+     * Initializing the WebDriver
+     * Maximizing the window
+     * launching the URL
+     * @author shchak
+     */
     @BeforeMethod(alwaysRun = true)
     public void setUp(){
         logger.info("Starting setUp method");
@@ -21,6 +27,10 @@ public class BaseTest {
         logger.info("setUp method completed -- browser opened");
     }
 
+    /**
+     * Quiting the driver
+     * @author shchak
+     */
     @AfterMethod(alwaysRun = true)
     public void tearDown() {
         logger.info("TearDown method executing");

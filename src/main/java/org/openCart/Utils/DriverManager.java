@@ -71,10 +71,19 @@ public class DriverManager {
         }
     }
 
+    /**
+     * Get the driver
+     * @return the driver object
+     * @author shchak
+     */
     public static RemoteWebDriver getDriver() {
         return driver.get();
     }
 
+    /**
+     * quit the driver
+     * @author shchak
+     */
     public static void quitDriver() {
         if (getDriver() != null) {
             getDriver().quit();

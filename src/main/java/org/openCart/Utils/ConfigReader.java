@@ -14,6 +14,12 @@ public class ConfigReader {
        lacatorDataProperty=loadProperties(System.getProperty("user.dir")+"/src/main/java/org/openCart/Locator/locatorData.properties");
     }
 
+    /**
+     * Reads the property file
+     * @param filepath property file to read
+     * @return Properties object
+     * @author shchak
+     */
     public static Properties loadProperties(String filepath){
         Properties property=new Properties();
         try{
@@ -25,6 +31,13 @@ public class ConfigReader {
         return property;
     }
 
+    /**
+     * Returns the value of the specified key from the openCart.properties file.
+     * If an environment variable with the same key exists, its value is returned instead.
+     * @param key the key to look up in the environment variables or the properties file
+     * @return the value associated with the key
+     * @author shchak
+     */
     public static String getTestDataProperty(String key){
         String envValue=System.getenv(key);
         if(envValue!=null){
@@ -33,10 +46,22 @@ public class ConfigReader {
         return  testDataProperty.getProperty(key);
     }
 
+    /**
+     * Returns the value of the specified key from the locatorData.properties file
+     * @param key the key to look up in the properties file
+     * @return the value associated with the key
+     * @author shchak
+     */
     public static String getLocatorDataProperty(String key){
         return  lacatorDataProperty.getProperty(key);
     }
 
+    /**
+     * Returns the value of the specified key from the locator.properties file
+     * @param key the key to look up in the properties file
+     * @return the value associated with the key
+     * @author shchak
+     */
     public static  String getLocatorProperty(String key){
         return  locatorProperty.getProperty(key);
     }
